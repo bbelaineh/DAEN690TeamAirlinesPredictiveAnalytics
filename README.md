@@ -1,2 +1,2 @@
-# DAEN690TeamAirlines
+# DAEN690TeamAirlinesPredictiveAnalytics
 Repository for DAEN690
